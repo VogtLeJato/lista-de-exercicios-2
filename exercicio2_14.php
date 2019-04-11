@@ -2,7 +2,8 @@
 echo"
 ********************
 e x e r c i c i o 14
-********************\n"
+********************\n";
+
 echo"Aqui está uma lista dos numeros impares de 1 a 50.\n"
 $numero = 0;
 while($numero < 51){
