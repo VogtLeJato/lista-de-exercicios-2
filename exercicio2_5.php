@@ -2,7 +2,7 @@
 echo"
 *******************
 e x e r c i c i o 5
-*******************\n"
+*******************\n";
 print"digite a primeira nota do aluno\n";
   $nota_parcial_1 = fgets(STDIN);
 
