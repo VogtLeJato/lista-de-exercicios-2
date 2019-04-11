@@ -2,7 +2,8 @@
 echo"
 *******************
 e x e r c i c i o 8
-*******************\n"
+*******************\n";
+
 echo"informe o preço do produto 1\n";
  $preço_produto_um = fgets(STDIN);
  $preço_produto_dois = fgets(STDIN);
