@@ -2,15 +2,15 @@
 echo"
      *******************
      e x e r c í c i o 4
-     *******************";
+     *******************\n";
 
 sleep(2);
 
-echo"Agora digite uma letra do alfabeto.\n";
+echo"Agora, digite uma letra do alfabeto.\n";
 
 sleep(2);
 
-echo"Eu vou dizer se é uma vogal ou uma consoante.\n";
+echo"E eu vou dizer se é uma vogal ou uma consoante.\n";
 
  print "Digite uma letra: ";
  $letra = (string)fgetc(STDIN);
