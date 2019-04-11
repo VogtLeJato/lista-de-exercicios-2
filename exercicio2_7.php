@@ -2,7 +2,7 @@
 echo"
 *******************
 e x e r c i c i o 7
-*******************"
+*******************\n"
  echo"digite tres numeros\n";
  $numero_um = fgets(STDIN);
  $numero_dois = fgets(STDIN);
