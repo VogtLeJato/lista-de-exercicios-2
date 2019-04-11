@@ -2,7 +2,7 @@
 echo"
 ********************
 e x e r c i c i o 10
-********************\n"
+********************\n";
 
 echo'digite os tres numeos "A, B e C" da equação de segundo grau, e eu direi o X ';
 $A = fgets(STDIN);
