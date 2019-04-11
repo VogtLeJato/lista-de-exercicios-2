@@ -1,4 +1,8 @@
 <?php
+echo"
+*******************
+e x e r c i c i o 5
+*******************"
 print"digite a primeira nota do aluno";
   $nota_parcial_1 = fgets(STDIN);
 
