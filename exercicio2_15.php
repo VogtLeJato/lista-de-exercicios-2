@@ -2,7 +2,8 @@
 echo"
 ********************
 e x e r c i c i o 15
-********************\n"
+********************\n";
+
 echo"digite cinco numeros e eu direi o maior deles\n";
 $numero_um = fgets(STDIN);
 $numero_dois = fgets(STDIN);
